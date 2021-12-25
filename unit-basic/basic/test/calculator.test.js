@@ -1,4 +1,4 @@
-const Calculator = require('../calculator.js');
+const Calculator = require('../../calculator.js');
 
 //describe는 관련된 테스트들을 묶을 수 있는 함수다.
 //중요한 점 하나는, describe 안에 있는 각각의 it은 독립적으로 수행되도록 하는 것이 중요하다.
