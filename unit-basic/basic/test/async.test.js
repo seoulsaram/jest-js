@@ -1,5 +1,5 @@
 //비동기 테스트를 해보자
-const fetchProduct = require('../../async.js');
+const fetchProduct = require('../async.js');
 
 describe('Async', () => {
   //아래 코드는 toEqual의 값이 잘못되어도 테스트 성공으로 뜬다.
